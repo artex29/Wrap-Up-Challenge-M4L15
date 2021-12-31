@@ -11,7 +11,7 @@ import SwiftUI
 struct Wrap_Up_Challenge_Books_M4L15App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MyLibraryView()
         }
     }
 }
